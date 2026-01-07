@@ -2,8 +2,6 @@
 
 Pytago is a source-to-source transpiler that converts some Python into human-readable Go.
 
-- [Try out the web demo](https://pytago.dev/)
-
 ## Installation and usage
 
 There are two "officially" supported ways to use Pytago:
